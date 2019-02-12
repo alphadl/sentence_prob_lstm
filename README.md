@@ -1,2 +1,2 @@
-# sentence_prob_lstm
+# Sentence_Prob_Lstm
 calculate the sentence probability through lstm language model
